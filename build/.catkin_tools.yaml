@@ -1,0 +1,6 @@
+devel_space: /home/johann/catkin_ws_matchbox/devel
+install: false
+install_space: /home/johann/catkin_ws_matchbox/install
+profile: default
+source_space: /home/johann/catkin_ws_matchbox/src
+workspace: /home/johann/catkin_ws_matchbox
