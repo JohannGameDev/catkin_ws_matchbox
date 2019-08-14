@@ -2,156 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="071b5a3d-3665-48d2-b870-7ca93115547a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assignment2_publisher_subscriber/subscriber.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.catkin_tools/profiles/default/packages/catkin_tools_prebuild/devel_manifest.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.catkin_tools/profiles/default/packages/catkin_tools_prebuild/package.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/CMakeCache.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/CMakeFiles/3.10.2/CMakeCCompiler.cmake" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/CMakeFiles/3.10.2/CMakeCXXCompiler.cmake" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/CMakeFiles/3.10.2/CMakeDetermineCompilerABI_C.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/CMakeFiles/3.10.2/CMakeDetermineCompilerABI_CXX.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/CMakeFiles/3.10.2/CMakeSystem.cmake" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/CMakeFiles/3.10.2/CompilerIdC/a.out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/CMakeFiles/3.10.2/CompilerIdCXX/a.out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/CMakeFiles/CMakeDirectoryInformation.cmake" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/CMakeFiles/CMakeError.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/CMakeFiles/CMakeOutput.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/CMakeFiles/CMakeRuleHashes.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/CMakeFiles/Makefile.cmake" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/CMakeFiles/Makefile2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/CMakeFiles/TargetDirectories.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/CMakeFiles/_catkin_empty_exported_target.dir/DependInfo.cmake" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/CMakeFiles/_catkin_empty_exported_target.dir/build.make" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/CMakeFiles/_catkin_empty_exported_target.dir/cmake_clean.cmake" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/CMakeFiles/_catkin_empty_exported_target.dir/progress.make" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/CMakeFiles/clean_test_results.dir/DependInfo.cmake" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/CMakeFiles/clean_test_results.dir/build.make" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/CMakeFiles/clean_test_results.dir/cmake_clean.cmake" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/CMakeFiles/clean_test_results.dir/progress.make" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/CMakeFiles/cmake.check_cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/CMakeFiles/download_extra_data.dir/DependInfo.cmake" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/CMakeFiles/download_extra_data.dir/build.make" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/CMakeFiles/download_extra_data.dir/cmake_clean.cmake" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/CMakeFiles/download_extra_data.dir/progress.make" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/CMakeFiles/doxygen.dir/DependInfo.cmake" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/CMakeFiles/doxygen.dir/build.make" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/CMakeFiles/doxygen.dir/cmake_clean.cmake" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/CMakeFiles/doxygen.dir/progress.make" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/CMakeFiles/feature_tests.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/CMakeFiles/feature_tests.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/CMakeFiles/feature_tests.cxx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/CMakeFiles/progress.marks" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/CMakeFiles/run_tests.dir/DependInfo.cmake" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/CMakeFiles/run_tests.dir/build.make" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/CMakeFiles/run_tests.dir/cmake_clean.cmake" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/CMakeFiles/run_tests.dir/progress.make" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/CMakeFiles/tests.dir/DependInfo.cmake" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/CMakeFiles/tests.dir/build.make" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/CMakeFiles/tests.dir/cmake_clean.cmake" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/CMakeFiles/tests.dir/progress.make" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/CMakeLists.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/CTestConfiguration.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/CTestCustom.cmake" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/CTestTestfile.cmake" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/Makefile" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/atomic_configure/.rosinstall" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/atomic_configure/_setup_util.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/atomic_configure/env.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/atomic_configure/local_setup.bash" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/atomic_configure/local_setup.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/atomic_configure/local_setup.zsh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/atomic_configure/setup.bash" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/atomic_configure/setup.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/atomic_configure/setup.zsh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/catkin/catkin_generated/version/package.cmake" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/catkin_generated/env_cached.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/catkin_generated/generate_cached_setup.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/catkin_generated/installspace/.rosinstall" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/catkin_generated/installspace/_setup_util.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/catkin_generated/installspace/catkin_tools_prebuild.pc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/catkin_generated/installspace/catkin_tools_prebuildConfig-version.cmake" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/catkin_generated/installspace/catkin_tools_prebuildConfig.cmake" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/catkin_generated/installspace/env.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/catkin_generated/installspace/local_setup.bash" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/catkin_generated/installspace/local_setup.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/catkin_generated/installspace/local_setup.zsh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/catkin_generated/installspace/setup.bash" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/catkin_generated/installspace/setup.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/catkin_generated/installspace/setup.zsh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/catkin_generated/package.cmake" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/catkin_generated/pkg.develspace.context.pc.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/catkin_generated/pkg.installspace.context.pc.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/catkin_generated/setup_cached.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/catkin_generated/stamps/catkin_tools_prebuild/_setup_util.py.stamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/catkin_generated/stamps/catkin_tools_prebuild/interrogate_setup_dot_py.py.stamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/catkin_generated/stamps/catkin_tools_prebuild/package.xml.stamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/catkin_generated/stamps/catkin_tools_prebuild/pkg.pc.em.stamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/cmake_install.cmake" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/gtest/CMakeFiles/CMakeDirectoryInformation.cmake" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/gtest/CMakeFiles/progress.marks" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/gtest/CTestTestfile.cmake" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/gtest/Makefile" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/gtest/cmake_install.cmake" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/gtest/googlemock/CMakeFiles/CMakeDirectoryInformation.cmake" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/gtest/googlemock/CMakeFiles/gmock.dir/DependInfo.cmake" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/gtest/googlemock/CMakeFiles/gmock.dir/build.make" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/gtest/googlemock/CMakeFiles/gmock.dir/cmake_clean.cmake" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/gtest/googlemock/CMakeFiles/gmock.dir/depend.make" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/gtest/googlemock/CMakeFiles/gmock.dir/flags.make" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/gtest/googlemock/CMakeFiles/gmock.dir/link.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/gtest/googlemock/CMakeFiles/gmock.dir/progress.make" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/gtest/googlemock/CMakeFiles/gmock_main.dir/DependInfo.cmake" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/gtest/googlemock/CMakeFiles/gmock_main.dir/build.make" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/gtest/googlemock/CMakeFiles/gmock_main.dir/cmake_clean.cmake" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/gtest/googlemock/CMakeFiles/gmock_main.dir/depend.make" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/gtest/googlemock/CMakeFiles/gmock_main.dir/flags.make" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/gtest/googlemock/CMakeFiles/gmock_main.dir/link.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/gtest/googlemock/CMakeFiles/gmock_main.dir/progress.make" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/gtest/googlemock/CMakeFiles/progress.marks" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/gtest/googlemock/CTestTestfile.cmake" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/gtest/googlemock/Makefile" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/gtest/googlemock/cmake_install.cmake" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/gtest/googlemock/gtest/CMakeFiles/CMakeDirectoryInformation.cmake" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/gtest/googlemock/gtest/CMakeFiles/gtest.dir/DependInfo.cmake" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/gtest/googlemock/gtest/CMakeFiles/gtest.dir/build.make" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/gtest/googlemock/gtest/CMakeFiles/gtest.dir/cmake_clean.cmake" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/gtest/googlemock/gtest/CMakeFiles/gtest.dir/depend.make" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/gtest/googlemock/gtest/CMakeFiles/gtest.dir/flags.make" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/gtest/googlemock/gtest/CMakeFiles/gtest.dir/link.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/gtest/googlemock/gtest/CMakeFiles/gtest.dir/progress.make" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/gtest/googlemock/gtest/CMakeFiles/gtest_main.dir/DependInfo.cmake" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/gtest/googlemock/gtest/CMakeFiles/gtest_main.dir/build.make" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/gtest/googlemock/gtest/CMakeFiles/gtest_main.dir/cmake_clean.cmake" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/gtest/googlemock/gtest/CMakeFiles/gtest_main.dir/depend.make" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/gtest/googlemock/gtest/CMakeFiles/gtest_main.dir/flags.make" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/gtest/googlemock/gtest/CMakeFiles/gtest_main.dir/link.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/gtest/googlemock/gtest/CMakeFiles/gtest_main.dir/progress.make" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/gtest/googlemock/gtest/CMakeFiles/progress.marks" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/gtest/googlemock/gtest/CTestTestfile.cmake" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/gtest/googlemock/gtest/Makefile" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/gtest/googlemock/gtest/cmake_install.cmake" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/catkin_tools_prebuild/package.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/catkin_tools_prebuild/build.cache-manifest.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/catkin_tools_prebuild/build.cmake.000.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/catkin_tools_prebuild/build.cmake.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/catkin_tools_prebuild/build.ctr-nuke.000.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/catkin_tools_prebuild/build.ctr-nuke.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/catkin_tools_prebuild/build.loadenv.000.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/catkin_tools_prebuild/build.loadenv.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/catkin_tools_prebuild/build.make.000.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/catkin_tools_prebuild/build.make.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/catkin_tools_prebuild/build.mkdir.000.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/catkin_tools_prebuild/build.mkdir.001.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/catkin_tools_prebuild/build.mkdir.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/catkin_tools_prebuild/build.symlink.000.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/catkin_tools_prebuild/build.symlink.log" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/logs/catkin_tools_prebuild/build.cache-manifest.000.log" afterPath="$PROJECT_DIR$/src/assignment2_publisher_subscriber/publisher.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.catkin_tools/profiles/default/devel_collisions.txt" afterPath="$PROJECT_DIR$/.catkin_tools/profiles/default/devel_collisions.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/devel/.private/catkin_tools_prebuild/_setup_util.py" afterPath="$PROJECT_DIR$/devel/.private/catkin_tools_prebuild/_setup_util.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/devel/.private/catkin_tools_prebuild/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake" afterPath="$PROJECT_DIR$/devel/.private/catkin_tools_prebuild/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/assignment2_publisher_subscriber/build.cmake.000.log" afterPath="$PROJECT_DIR$/logs/assignment2_publisher_subscriber/build.cmake.000.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/assignment2_publisher_subscriber/build.cmake.log" afterPath="$PROJECT_DIR$/logs/assignment2_publisher_subscriber/build.cmake.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/catkin_tools_prebuild/build.cmake.000.log" afterPath="$PROJECT_DIR$/logs/catkin_tools_prebuild/build.cmake.000.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/catkin_tools_prebuild/build.cmake.log" afterPath="$PROJECT_DIR$/logs/catkin_tools_prebuild/build.cmake.log" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -165,7 +23,7 @@
       <file leaf-file-name="subscriber.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/assignment2_publisher_subscriber/subscriber.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
+            <state relative-caret-position="54">
               <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
               <folding>
                 <element signature="e#22#34#0" expanded="true" />
@@ -174,14 +32,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="publisher.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="publisher.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/assignment2_publisher_subscriber/publisher.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+            <state relative-caret-position="306">
+              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
               <folding>
                 <element signature="e#22#34#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="parking_maneuver.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/AutoMiny-exercises/simple_parking_maneuver/src/parking_maneuver.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -215,11 +83,11 @@
         <option value="$PROJECT_DIR$/src/autominy_msgs/subscriber.py" />
         <option value="$PROJECT_DIR$/src/assignment2_publisher_subscriber/subscriber.py" />
         <option value="$PROJECT_DIR$/src/assignment2_publisher_subscriber/publisher.py" />
+        <option value="$PROJECT_DIR$/src/AutoMiny-exercises/simple_parking_maneuver/src/parking_maneuver.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="4">
-    <option name="x" value="960" />
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="y" value="25" />
     <option name="width" value="960" />
     <option name="height" value="1055" />
@@ -239,7 +107,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -250,36 +118,35 @@
             <path>
               <item name="catkin_ws_matchbox" type="b2602c69:ProjectViewProjectNode" />
               <item name="catkin_ws_matchbox" type="462c0819:PsiDirectoryNode" />
-              <item name=".catkin_tools" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="catkin_ws_matchbox" type="b2602c69:ProjectViewProjectNode" />
-              <item name="catkin_ws_matchbox" type="462c0819:PsiDirectoryNode" />
-              <item name=".catkin_tools" type="462c0819:PsiDirectoryNode" />
-              <item name="profiles" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="catkin_ws_matchbox" type="b2602c69:ProjectViewProjectNode" />
-              <item name="catkin_ws_matchbox" type="462c0819:PsiDirectoryNode" />
-              <item name=".catkin_tools" type="462c0819:PsiDirectoryNode" />
-              <item name="profiles" type="462c0819:PsiDirectoryNode" />
-              <item name="default" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="catkin_ws_matchbox" type="b2602c69:ProjectViewProjectNode" />
-              <item name="catkin_ws_matchbox" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="catkin_ws_matchbox" type="b2602c69:ProjectViewProjectNode" />
               <item name="catkin_ws_matchbox" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="assignment2_publisher_subscriber" type="462c0819:PsiDirectoryNode" />
+              <item name="AutoMiny-exercises" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="catkin_ws_matchbox" type="b2602c69:ProjectViewProjectNode" />
               <item name="catkin_ws_matchbox" type="462c0819:PsiDirectoryNode" />
-              <item name="temp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="AutoMiny-exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="simple_drive_control" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="catkin_ws_matchbox" type="b2602c69:ProjectViewProjectNode" />
+              <item name="catkin_ws_matchbox" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="AutoMiny-exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="simple_parking_maneuver" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="catkin_ws_matchbox" type="b2602c69:ProjectViewProjectNode" />
+              <item name="catkin_ws_matchbox" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="AutoMiny-exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="simple_parking_maneuver" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="catkin_ws_matchbox" type="b2602c69:ProjectViewProjectNode" />
@@ -289,7 +156,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -328,17 +195,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="960" y="25" width="960" height="1055" extended-state="4" />
-    <editor active="true" />
+    <frame x="0" y="25" width="1920" height="1055" extended-state="7" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25164112" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12646745" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30194804" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3008658" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -359,6 +225,70 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/assignment2_publisher_subscriber/subscriber.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding>
+            <element signature="e#22#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assignment2_publisher_subscriber/publisher.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <element signature="e#22#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/temp/test">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AutoMiny-exercises/simple_parking_maneuver/src/parking_maneuver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="30" column="24" lean-forward="false" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assignment2_publisher_subscriber/subscriber.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding>
+            <element signature="e#22#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assignment2_publisher_subscriber/publisher.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <element signature="e#22#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/temp/test">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/assignment2_publisher_subscriber/subscriber.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -415,7 +345,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/assignment2_publisher_subscriber/subscriber.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
+        <state relative-caret-position="54">
           <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding>
             <element signature="e#22#34#0" expanded="true" />
@@ -425,11 +355,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/assignment2_publisher_subscriber/publisher.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        <state relative-caret-position="306">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding>
             <element signature="e#22#34#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AutoMiny-exercises/simple_parking_maneuver/src/parking_maneuver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
