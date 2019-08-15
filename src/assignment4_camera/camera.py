@@ -134,12 +134,12 @@ class FindMarker():
         dist_coeffs = np.zeros((5, 1))
         # close to far, left to right (order of discovery) in cm
         obj_points = np.zeros((6, 3, 1))
-        obj_points[:, :, 0] = np.array([[0.5, 0.3, 0],
+        obj_points[:, :, 0] = np.array([[0.5, 0.2, 0],
                                         [0.5, -0.2, 0],
                                         [0.8, 0.2, 0],
                                         [0.8, -0.2, 0],
                                         [1.1, 0.2, 0],
-                                        [00.0, -0.2, 0],
+                                        [1.1, -0.2, 0],
                                         ])
         retval, rvec, tvec = cv2.solvePnP(obj_points, img_points, camera_mat, dist_coeffs)
 
