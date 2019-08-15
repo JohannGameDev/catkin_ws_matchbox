@@ -1,0 +1,8 @@
+prefix=/home/johann/catkin_ws_matchbox/install
+
+Name: simple_drive_control
+Description: Description of simple_drive_control
+Version: 0.0.1
+Cflags: 
+Libs: -L/home/johann/catkin_ws_matchbox/install/lib 
+Requires: 

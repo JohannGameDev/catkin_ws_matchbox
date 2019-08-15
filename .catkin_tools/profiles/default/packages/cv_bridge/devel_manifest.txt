@@ -1,0 +1,10 @@
+vision_opencv/cv_bridge
+/home/johann/catkin_ws_matchbox/devel/.private/cv_bridge/cmake.lock /home/johann/catkin_ws_matchbox/devel/./cmake.lock
+/home/johann/catkin_ws_matchbox/devel/.private/cv_bridge/lib/libcv_bridge.so /home/johann/catkin_ws_matchbox/devel/lib/libcv_bridge.so
+/home/johann/catkin_ws_matchbox/devel/.private/cv_bridge/lib/python2.7/dist-packages/cv_bridge/__init__.py /home/johann/catkin_ws_matchbox/devel/lib/python2.7/dist-packages/cv_bridge/__init__.py
+/home/johann/catkin_ws_matchbox/devel/.private/cv_bridge/lib/python2.7/dist-packages/cv_bridge/boost/__init__.py /home/johann/catkin_ws_matchbox/devel/lib/python2.7/dist-packages/cv_bridge/boost/__init__.py
+/home/johann/catkin_ws_matchbox/devel/.private/cv_bridge/lib/python2.7/dist-packages/cv_bridge/boost/cv_bridge_boost.so /home/johann/catkin_ws_matchbox/devel/lib/python2.7/dist-packages/cv_bridge/boost/cv_bridge_boost.so
+/home/johann/catkin_ws_matchbox/devel/.private/cv_bridge/lib/pkgconfig/cv_bridge.pc /home/johann/catkin_ws_matchbox/devel/lib/pkgconfig/cv_bridge.pc
+/home/johann/catkin_ws_matchbox/devel/.private/cv_bridge/share/cv_bridge/cmake/cv_bridgeConfig-version.cmake /home/johann/catkin_ws_matchbox/devel/share/cv_bridge/cmake/cv_bridgeConfig-version.cmake
+/home/johann/catkin_ws_matchbox/devel/.private/cv_bridge/share/cv_bridge/cmake/cv_bridgeConfig.cmake /home/johann/catkin_ws_matchbox/devel/share/cv_bridge/cmake/cv_bridgeConfig.cmake
+/home/johann/catkin_ws_matchbox/devel/.private/cv_bridge/share/cv_bridge/cmake/cv_bridge-extras.cmake /home/johann/catkin_ws_matchbox/devel/share/cv_bridge/cmake/cv_bridge-extras.cmake

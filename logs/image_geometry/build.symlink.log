@@ -1,0 +1,5 @@
+Symlinking /home/johann/catkin_ws_matchbox/devel/lib/libimage_geometry.so
+Symlinking /home/johann/catkin_ws_matchbox/devel/lib/python2.7/dist-packages/image_geometry/__init__.py
+Symlinking /home/johann/catkin_ws_matchbox/devel/lib/pkgconfig/image_geometry.pc
+Symlinking /home/johann/catkin_ws_matchbox/devel/share/image_geometry/cmake/image_geometryConfig.cmake
+Symlinking /home/johann/catkin_ws_matchbox/devel/share/image_geometry/cmake/image_geometryConfig-version.cmake

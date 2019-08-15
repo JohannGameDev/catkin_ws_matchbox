@@ -1,0 +1,8 @@
+prefix=/home/johann/catkin_ws_matchbox/install
+
+Name: assignment4_camera
+Description: Description of assignment4_camera
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/johann/catkin_ws_matchbox/install/lib 
+Requires: 

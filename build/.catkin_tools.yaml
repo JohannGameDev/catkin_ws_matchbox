@@ -1,5 +1,5 @@
 devel_space: /home/johann/catkin_ws_matchbox/devel
-install: false
+install: true
 install_space: /home/johann/catkin_ws_matchbox/install
 profile: default
 source_space: /home/johann/catkin_ws_matchbox/src

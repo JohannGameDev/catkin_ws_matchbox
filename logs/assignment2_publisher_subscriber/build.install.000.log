@@ -1,0 +1,15 @@
+[36mInstall the project...[0m
+-- Install configuration: ""
+-- Installing: /home/johann/catkin_ws_matchbox/install/_setup_util.py
+-- Installing: /home/johann/catkin_ws_matchbox/install/env.sh
+-- Installing: /home/johann/catkin_ws_matchbox/install/setup.bash
+-- Installing: /home/johann/catkin_ws_matchbox/install/local_setup.bash
+-- Installing: /home/johann/catkin_ws_matchbox/install/setup.sh
+-- Installing: /home/johann/catkin_ws_matchbox/install/local_setup.sh
+-- Installing: /home/johann/catkin_ws_matchbox/install/setup.zsh
+-- Installing: /home/johann/catkin_ws_matchbox/install/local_setup.zsh
+-- Installing: /home/johann/catkin_ws_matchbox/install/.rosinstall
+-- Installing: /home/johann/catkin_ws_matchbox/install/lib/pkgconfig/assignment2_publisher_subscriber.pc
+-- Installing: /home/johann/catkin_ws_matchbox/install/share/assignment2_publisher_subscriber/cmake/assignment2_publisher_subscriberConfig.cmake
+-- Installing: /home/johann/catkin_ws_matchbox/install/share/assignment2_publisher_subscriber/cmake/assignment2_publisher_subscriberConfig-version.cmake
+-- Installing: /home/johann/catkin_ws_matchbox/install/share/assignment2_publisher_subscriber/package.xml

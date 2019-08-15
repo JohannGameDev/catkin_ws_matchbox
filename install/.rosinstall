@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/johann/catkin_ws_matchbox/install/setup.sh

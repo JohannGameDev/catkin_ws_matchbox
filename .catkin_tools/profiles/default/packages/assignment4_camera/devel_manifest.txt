@@ -1,0 +1,5 @@
+assignment4_camera
+/home/johann/catkin_ws_matchbox/devel/.private/assignment4_camera/cmake.lock /home/johann/catkin_ws_matchbox/devel/./cmake.lock
+/home/johann/catkin_ws_matchbox/devel/.private/assignment4_camera/lib/pkgconfig/assignment4_camera.pc /home/johann/catkin_ws_matchbox/devel/lib/pkgconfig/assignment4_camera.pc
+/home/johann/catkin_ws_matchbox/devel/.private/assignment4_camera/share/assignment4_camera/cmake/assignment4_cameraConfig-version.cmake /home/johann/catkin_ws_matchbox/devel/share/assignment4_camera/cmake/assignment4_cameraConfig-version.cmake
+/home/johann/catkin_ws_matchbox/devel/.private/assignment4_camera/share/assignment4_camera/cmake/assignment4_cameraConfig.cmake /home/johann/catkin_ws_matchbox/devel/share/assignment4_camera/cmake/assignment4_cameraConfig.cmake

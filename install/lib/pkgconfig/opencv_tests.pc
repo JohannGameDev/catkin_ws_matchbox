@@ -1,0 +1,8 @@
+prefix=/home/johann/catkin_ws_matchbox/install
+
+Name: opencv_tests
+Description: Description of opencv_tests
+Version: 1.13.0
+Cflags: 
+Libs: -L/home/johann/catkin_ws_matchbox/install/lib 
+Requires: 
