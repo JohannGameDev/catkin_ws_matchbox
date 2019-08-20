@@ -37,7 +37,6 @@ class FindMarker():
                 cv2.circle(bw_image, (int(pos[1]),int(pos[0])), 10, 255, -1)
 
             self.image_pub_cluster.publish(self.bridge.cv2_to_imgmsg(bw_image, "mono8"))
-
             #cv2.imwrite('/home/johann/black_white.bmp', bw_image)
             retval,rvec,tvec = self.solve_pnp(marker_positions)
 

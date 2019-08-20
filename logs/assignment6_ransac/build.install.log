@@ -9,7 +9,7 @@
 -- Installing: /home/johann/catkin_ws_matchbox/install/setup.zsh
 -- Installing: /home/johann/catkin_ws_matchbox/install/local_setup.zsh
 -- Installing: /home/johann/catkin_ws_matchbox/install/.rosinstall
--- Up-to-date: /home/johann/catkin_ws_matchbox/install/lib/pkgconfig/assignment4_camera.pc
--- Up-to-date: /home/johann/catkin_ws_matchbox/install/share/assignment4_camera/cmake/assignment4_cameraConfig.cmake
--- Up-to-date: /home/johann/catkin_ws_matchbox/install/share/assignment4_camera/cmake/assignment4_cameraConfig-version.cmake
--- Up-to-date: /home/johann/catkin_ws_matchbox/install/share/assignment4_camera/package.xml
+-- Installing: /home/johann/catkin_ws_matchbox/install/lib/pkgconfig/assignment6_ransac.pc
+-- Installing: /home/johann/catkin_ws_matchbox/install/share/assignment6_ransac/cmake/assignment6_ransacConfig.cmake
+-- Installing: /home/johann/catkin_ws_matchbox/install/share/assignment6_ransac/cmake/assignment6_ransacConfig-version.cmake
+-- Installing: /home/johann/catkin_ws_matchbox/install/share/assignment6_ransac/package.xml

@@ -1,0 +1,5 @@
+assignment6_ransac
+/home/johann/catkin_ws_matchbox/devel/.private/assignment6_ransac/cmake.lock /home/johann/catkin_ws_matchbox/devel/./cmake.lock
+/home/johann/catkin_ws_matchbox/devel/.private/assignment6_ransac/lib/pkgconfig/assignment6_ransac.pc /home/johann/catkin_ws_matchbox/devel/lib/pkgconfig/assignment6_ransac.pc
+/home/johann/catkin_ws_matchbox/devel/.private/assignment6_ransac/share/assignment6_ransac/cmake/assignment6_ransacConfig-version.cmake /home/johann/catkin_ws_matchbox/devel/share/assignment6_ransac/cmake/assignment6_ransacConfig-version.cmake
+/home/johann/catkin_ws_matchbox/devel/.private/assignment6_ransac/share/assignment6_ransac/cmake/assignment6_ransacConfig.cmake /home/johann/catkin_ws_matchbox/devel/share/assignment6_ransac/cmake/assignment6_ransacConfig.cmake
