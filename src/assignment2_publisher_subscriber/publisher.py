@@ -14,7 +14,7 @@ def talker():
 
     # steering
     norm_steerin_cmd = NormalizedSteeringCommand()  # Command is a class create object
-    norm_steerin_cmd.value = 1.0
+    norm_steerin_cmd.value = 0
 
 
     #speed init
