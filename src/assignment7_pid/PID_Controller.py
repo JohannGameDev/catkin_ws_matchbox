@@ -3,9 +3,9 @@ import time
 
 class PID_Controller():
     def __init__(self):
-        self.K_p = 0.1
+        self.K_p = 2.0
         self.K_d = 0.1
-        self.K_i = 0.1
+        self.K_i = 0.0
 
         self.init_values()
 
@@ -46,7 +46,6 @@ class PID_Controller():
         self.influence_p = self.K_p * error  # Proportinal
         self.influence_i += error * dt  # Integral
 
-        self.influence_p = 0
         if dt > 0:
             self.influence_d = de / dt  # Derrivitive
 
@@ -55,4 +54,3 @@ class PID_Controller():
 
         # sum the terms and return the result
         return self.influence_p + (self.K_i * self.influence_i) + (self.K_d * self.influence_d)
-
