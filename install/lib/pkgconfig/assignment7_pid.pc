@@ -1,0 +1,8 @@
+prefix=/home/johann/catkin_ws_matchbox/install
+
+Name: assignment7_pid
+Description: Description of assignment7_pid
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/johann/catkin_ws_matchbox/install/lib 
+Requires: 
