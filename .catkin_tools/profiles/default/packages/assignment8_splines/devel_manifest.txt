@@ -1,0 +1,5 @@
+assignment8_splines
+/home/johann/catkin_ws_matchbox/devel/.private/assignment8_splines/cmake.lock /home/johann/catkin_ws_matchbox/devel/./cmake.lock
+/home/johann/catkin_ws_matchbox/devel/.private/assignment8_splines/lib/pkgconfig/assignment8_splines.pc /home/johann/catkin_ws_matchbox/devel/lib/pkgconfig/assignment8_splines.pc
+/home/johann/catkin_ws_matchbox/devel/.private/assignment8_splines/share/assignment8_splines/cmake/assignment8_splinesConfig-version.cmake /home/johann/catkin_ws_matchbox/devel/share/assignment8_splines/cmake/assignment8_splinesConfig-version.cmake
+/home/johann/catkin_ws_matchbox/devel/.private/assignment8_splines/share/assignment8_splines/cmake/assignment8_splinesConfig.cmake /home/johann/catkin_ws_matchbox/devel/share/assignment8_splines/cmake/assignment8_splinesConfig.cmake
