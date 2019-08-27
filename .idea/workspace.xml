@@ -2,8 +2,72 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="071b5a3d-3665-48d2-b870-7ca93115547a" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assignment9_navigation/data/lane1.npy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assignment9_navigation/data/lane2.npy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assignment9_navigation/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assignment9_navigation/map.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assignment9_navigation/navigation.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assignment9_navigation/pid.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment2_publisher_subscriber/build.mkdir.000.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment2_publisher_subscriber/build.mkdir.001.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment2_publisher_subscriber/build.mkdir.002.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment2_publisher_subscriber/build.mkdir.003.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment2_publisher_subscriber/build.mkdir.004.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment2_publisher_subscriber/build.mkdir.005.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment4_camera/build.mkdir.002.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment4_camera/build.mkdir.003.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment4_camera/build.mkdir.004.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment4_camera/build.mkdir.005.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment4_camera/build.mkdir.006.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment4_camera/build.mkdir.007.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment6_ransac/build.mkdir.000.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment6_ransac/build.mkdir.001.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment6_ransac/build.mkdir.002.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment6_ransac/build.mkdir.003.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment6_ransac/build.mkdir.004.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment6_ransac/build.mkdir.005.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment7_pid/build.mkdir.000.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment7_pid/build.mkdir.001.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment7_pid/build.mkdir.002.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment7_pid/build.mkdir.003.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/cv_bridge/build.mkdir.000.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/cv_bridge/build.mkdir.001.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/cv_bridge/build.mkdir.002.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/cv_bridge/build.mkdir.003.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/cv_bridge/build.mkdir.004.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/cv_bridge/build.mkdir.005.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/image_geometry/build.mkdir.000.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/image_geometry/build.mkdir.001.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/image_geometry/build.mkdir.002.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/image_geometry/build.mkdir.003.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/image_geometry/build.mkdir.004.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/image_geometry/build.mkdir.005.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/opencv_tests/build.mkdir.000.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/opencv_tests/build.mkdir.001.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/opencv_tests/build.mkdir.002.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/opencv_tests/build.mkdir.003.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/opencv_tests/build.mkdir.004.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/opencv_tests/build.mkdir.005.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_drive_control/build.mkdir.000.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_drive_control/build.mkdir.001.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_drive_control/build.mkdir.002.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_drive_control/build.mkdir.003.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_drive_control/build.mkdir.004.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_drive_control/build.mkdir.005.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_parking_maneuver/build.mkdir.000.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_parking_maneuver/build.mkdir.001.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_parking_maneuver/build.mkdir.002.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_parking_maneuver/build.mkdir.003.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_parking_maneuver/build.mkdir.004.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_parking_maneuver/build.mkdir.005.log" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/vision_opencv" afterPath="$PROJECT_DIR$/src/vision_opencv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assignment8_splines/splines.py" afterPath="$PROJECT_DIR$/src/assignment8_splines/splines.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.catkin_tools/profiles/default/devel_collisions.txt" afterPath="$PROJECT_DIR$/.catkin_tools/profiles/default/devel_collisions.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/assignment8_splines/build.install.log" afterPath="$PROJECT_DIR$/logs/assignment8_splines/build.install.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/assignment8_splines/build.symlink.log" afterPath="$PROJECT_DIR$/logs/assignment8_splines/build.symlink.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/cv_bridge/build.make.log" afterPath="$PROJECT_DIR$/logs/cv_bridge/build.make.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/image_geometry/build.make.log" afterPath="$PROJECT_DIR$/logs/image_geometry/build.make.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/simple_parking_maneuver/build.make.log" afterPath="$PROJECT_DIR$/logs/simple_parking_maneuver/build.make.log" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,25 +78,37 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="splines.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/assignment8_splines/splines.py">
+      <file leaf-file-name="pid.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/assignment9_navigation/pid.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="107" column="8" lean-forward="false" selection-start-line="107" selection-start-column="8" selection-end-line="107" selection-end-column="8" />
+            <state relative-caret-position="168">
+              <caret line="70" column="61" lean-forward="false" selection-start-line="70" selection-start-column="61" selection-end-line="70" selection-end-column="61" />
               <folding>
-                <element signature="e#0#18#0" expanded="true" />
+                <element signature="e#0#12#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="drive_pid.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/assignment7_pid/drive_pid.py">
+      <file leaf-file-name="navigation.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/assignment9_navigation/navigation.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="76" column="36" lean-forward="true" selection-start-line="76" selection-start-column="6" selection-end-line="76" selection-end-column="36" />
+            <state relative-caret-position="630">
+              <caret line="71" column="25" lean-forward="false" selection-start-line="71" selection-start-column="25" selection-end-line="71" selection-end-column="25" />
               <folding>
-                <element signature="e#19#31#0" expanded="true" />
+                <element signature="e#0#24#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="map.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/assignment9_navigation/map.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="69" column="52" lean-forward="true" selection-start-line="69" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#12#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -50,6 +126,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>angle</find>
+      <find>on_steering</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -72,6 +149,10 @@
         <option value="$PROJECT_DIR$/src/assignment2_publisher_subscriber/publisher.py" />
         <option value="$PROJECT_DIR$/src/assignment7_pid/drive_pid.py" />
         <option value="$PROJECT_DIR$/src/assignment8_splines/splines.py" />
+        <option value="$PROJECT_DIR$/src/assignment9_navigation/__init__.py" />
+        <option value="$PROJECT_DIR$/src/assignment9_navigation/map.py" />
+        <option value="$PROJECT_DIR$/src/assignment9_navigation/navigation.py" />
+        <option value="$PROJECT_DIR$/src/assignment9_navigation/pid.py" />
       </list>
     </option>
   </component>
@@ -130,6 +211,19 @@
             </path>
             <path>
               <item name="catkin_ws_matchbox" type="b2602c69:ProjectViewProjectNode" />
+              <item name="catkin_ws_matchbox" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="assignment9_navigation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="catkin_ws_matchbox" type="b2602c69:ProjectViewProjectNode" />
+              <item name="catkin_ws_matchbox" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="assignment9_navigation" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="catkin_ws_matchbox" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
@@ -143,16 +237,17 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/assignment9_navigation" />
+      <recent name="$PROJECT_DIR$/src/assignment8_splines/data" />
+      <recent name="$PROJECT_DIR$/src/assignment7_pid" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/assignment6_ransac" />
       <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/src/assignment2_publisher_subscriber" />
       <recent name="$PROJECT_DIR$/temp" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/assignment8_splines/data" />
-      <recent name="$PROJECT_DIR$/src/assignment7_pid" />
-      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -183,7 +278,7 @@
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1920" height="1055" extended-state="7" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21237993" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21664888" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3008658" sideWeight="0.51280683" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -207,13 +302,13 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3008658" sideWeight="0.51280683" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3008658" sideWeight="0.51280683" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3008658" sideWeight="0.48719317" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25080043" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29112554" sideWeight="0.48719317" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2145144" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -228,39 +323,11 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="3" />
+      <option name="time" value="4" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/assignment4_camera/camera.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2448">
-          <caret line="136" column="49" lean-forward="false" selection-start-line="136" selection-start-column="49" selection-end-line="136" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assignment2_publisher_subscriber/subscriber.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="10" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assignment4_camera/CMakeLists.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assignment4_camera/package.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/assignment2_publisher_subscriber/publisher.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -485,7 +552,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -521,9 +587,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1188">
           <caret line="71" column="0" lean-forward="false" selection-start-line="71" selection-start-column="0" selection-end-line="80" selection-end-column="30" />
-          <folding>
-            <element signature="e#0#12#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -538,9 +601,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" column="91" lean-forward="false" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="91" />
-          <folding>
-            <element signature="e#22#34#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -548,7 +608,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -556,7 +615,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="5" column="22" lean-forward="false" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -564,28 +622,56 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="71" column="34" lean-forward="false" selection-start-line="71" selection-start-column="34" selection-end-line="71" selection-end-column="34" />
-          <folding>
-            <element signature="e#41#53#0" expanded="false" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assignment8_splines/splines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="204" column="0" lean-forward="false" selection-start-line="204" selection-start-column="0" selection-end-line="204" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/assignment7_pid/drive_pid.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="76" column="36" lean-forward="true" selection-start-line="76" selection-start-column="6" selection-end-line="76" selection-end-column="36" />
+          <caret line="76" column="36" lean-forward="false" selection-start-line="76" selection-start-column="6" selection-end-line="76" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assignment9_navigation/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assignment9_navigation/map.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="69" column="52" lean-forward="true" selection-start-line="69" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
           <folding>
-            <element signature="e#19#31#0" expanded="true" />
+            <element signature="e#0#12#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/assignment8_splines/splines.py">
+    <entry file="file://$PROJECT_DIR$/src/assignment9_navigation/navigation.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="107" column="8" lean-forward="false" selection-start-line="107" selection-start-column="8" selection-end-line="107" selection-end-column="8" />
+        <state relative-caret-position="630">
+          <caret line="71" column="25" lean-forward="false" selection-start-line="71" selection-start-column="25" selection-end-line="71" selection-end-column="25" />
           <folding>
-            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assignment9_navigation/pid.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="70" column="61" lean-forward="false" selection-start-line="70" selection-start-column="61" selection-end-line="70" selection-end-column="61" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -1,0 +1,5 @@
+assignment9_navigation
+/home/johann/catkin_ws_matchbox/devel/.private/assignment9_navigation/cmake.lock /home/johann/catkin_ws_matchbox/devel/./cmake.lock
+/home/johann/catkin_ws_matchbox/devel/.private/assignment9_navigation/lib/pkgconfig/assignment9_navigation.pc /home/johann/catkin_ws_matchbox/devel/lib/pkgconfig/assignment9_navigation.pc
+/home/johann/catkin_ws_matchbox/devel/.private/assignment9_navigation/share/assignment9_navigation/cmake/assignment9_navigationConfig-version.cmake /home/johann/catkin_ws_matchbox/devel/share/assignment9_navigation/cmake/assignment9_navigationConfig-version.cmake
+/home/johann/catkin_ws_matchbox/devel/.private/assignment9_navigation/share/assignment9_navigation/cmake/assignment9_navigationConfig.cmake /home/johann/catkin_ws_matchbox/devel/share/assignment9_navigation/cmake/assignment9_navigationConfig.cmake

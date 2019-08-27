@@ -1,0 +1,8 @@
+prefix=/home/johann/catkin_ws_matchbox/install
+
+Name: assignment9_navigation
+Description: Description of assignment9_navigation
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/johann/catkin_ws_matchbox/install/lib 
+Requires: 
