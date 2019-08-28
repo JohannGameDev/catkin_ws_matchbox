@@ -1,8 +1,8 @@
-Linked: (/home/johann/catkin_ws_matchbox/devel/.private/cv_bridge/lib/libcv_bridge.so, /home/johann/catkin_ws_matchbox/devel/lib/libcv_bridge.so)
-Linked: (/home/johann/catkin_ws_matchbox/devel/.private/cv_bridge/lib/python2.7/dist-packages/cv_bridge/__init__.py, /home/johann/catkin_ws_matchbox/devel/lib/python2.7/dist-packages/cv_bridge/__init__.py)
-Linked: (/home/johann/catkin_ws_matchbox/devel/.private/cv_bridge/lib/python2.7/dist-packages/cv_bridge/boost/__init__.py, /home/johann/catkin_ws_matchbox/devel/lib/python2.7/dist-packages/cv_bridge/boost/__init__.py)
-Linked: (/home/johann/catkin_ws_matchbox/devel/.private/cv_bridge/lib/python2.7/dist-packages/cv_bridge/boost/cv_bridge_boost.so, /home/johann/catkin_ws_matchbox/devel/lib/python2.7/dist-packages/cv_bridge/boost/cv_bridge_boost.so)
-Linked: (/home/johann/catkin_ws_matchbox/devel/.private/cv_bridge/lib/pkgconfig/cv_bridge.pc, /home/johann/catkin_ws_matchbox/devel/lib/pkgconfig/cv_bridge.pc)
-Linked: (/home/johann/catkin_ws_matchbox/devel/.private/cv_bridge/share/cv_bridge/cmake/cv_bridgeConfig-version.cmake, /home/johann/catkin_ws_matchbox/devel/share/cv_bridge/cmake/cv_bridgeConfig-version.cmake)
-Linked: (/home/johann/catkin_ws_matchbox/devel/.private/cv_bridge/share/cv_bridge/cmake/cv_bridgeConfig.cmake, /home/johann/catkin_ws_matchbox/devel/share/cv_bridge/cmake/cv_bridgeConfig.cmake)
-Linked: (/home/johann/catkin_ws_matchbox/devel/.private/cv_bridge/share/cv_bridge/cmake/cv_bridge-extras.cmake, /home/johann/catkin_ws_matchbox/devel/share/cv_bridge/cmake/cv_bridge-extras.cmake)
+Symlinking /home/johann/catkin_ws_matchbox/devel/lib/libcv_bridge.so
+Symlinking /home/johann/catkin_ws_matchbox/devel/lib/python2.7/dist-packages/cv_bridge/__init__.py
+Symlinking /home/johann/catkin_ws_matchbox/devel/lib/python2.7/dist-packages/cv_bridge/boost/__init__.py
+Symlinking /home/johann/catkin_ws_matchbox/devel/lib/python2.7/dist-packages/cv_bridge/boost/cv_bridge_boost.so
+Symlinking /home/johann/catkin_ws_matchbox/devel/lib/pkgconfig/cv_bridge.pc
+Symlinking /home/johann/catkin_ws_matchbox/devel/share/cv_bridge/cmake/cv_bridgeConfig-version.cmake
+Symlinking /home/johann/catkin_ws_matchbox/devel/share/cv_bridge/cmake/cv_bridgeConfig.cmake
+Symlinking /home/johann/catkin_ws_matchbox/devel/share/cv_bridge/cmake/cv_bridge-extras.cmake

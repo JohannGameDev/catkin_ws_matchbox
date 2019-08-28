@@ -2,72 +2,564 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="071b5a3d-3665-48d2-b870-7ca93115547a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assignment9_navigation/data/lane1.npy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assignment9_navigation/data/lane2.npy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assignment9_navigation/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assignment9_navigation/map.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assignment9_navigation/navigation.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assignment9_navigation/pid.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment2_publisher_subscriber/build.mkdir.000.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment2_publisher_subscriber/build.mkdir.001.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment2_publisher_subscriber/build.mkdir.002.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment2_publisher_subscriber/build.mkdir.003.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment2_publisher_subscriber/build.mkdir.004.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment2_publisher_subscriber/build.mkdir.005.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment4_camera/build.mkdir.002.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment4_camera/build.mkdir.003.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment4_camera/build.mkdir.004.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment4_camera/build.mkdir.005.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment4_camera/build.mkdir.006.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment4_camera/build.mkdir.007.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment6_ransac/build.mkdir.000.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment6_ransac/build.mkdir.001.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment6_ransac/build.mkdir.002.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment6_ransac/build.mkdir.003.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment6_ransac/build.mkdir.004.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment6_ransac/build.mkdir.005.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment7_pid/build.mkdir.000.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment7_pid/build.mkdir.001.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment7_pid/build.mkdir.002.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment7_pid/build.mkdir.003.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/cv_bridge/build.mkdir.000.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/cv_bridge/build.mkdir.001.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/cv_bridge/build.mkdir.002.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/cv_bridge/build.mkdir.003.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/cv_bridge/build.mkdir.004.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/cv_bridge/build.mkdir.005.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/image_geometry/build.mkdir.000.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/image_geometry/build.mkdir.001.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/image_geometry/build.mkdir.002.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/image_geometry/build.mkdir.003.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/image_geometry/build.mkdir.004.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/image_geometry/build.mkdir.005.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/opencv_tests/build.mkdir.000.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/opencv_tests/build.mkdir.001.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/opencv_tests/build.mkdir.002.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/opencv_tests/build.mkdir.003.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/opencv_tests/build.mkdir.004.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/opencv_tests/build.mkdir.005.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_drive_control/build.mkdir.000.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_drive_control/build.mkdir.001.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_drive_control/build.mkdir.002.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_drive_control/build.mkdir.003.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_drive_control/build.mkdir.004.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_drive_control/build.mkdir.005.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_parking_maneuver/build.mkdir.000.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_parking_maneuver/build.mkdir.001.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_parking_maneuver/build.mkdir.002.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_parking_maneuver/build.mkdir.003.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_parking_maneuver/build.mkdir.004.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_parking_maneuver/build.mkdir.005.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment2_publisher_subscriber/build.cache-manifest.001.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment2_publisher_subscriber/build.cache-manifest.002.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment2_publisher_subscriber/build.cache-manifest.003.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment2_publisher_subscriber/build.cache-manifest.004.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment2_publisher_subscriber/build.cache-manifest.005.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment2_publisher_subscriber/build.cache-manifest.006.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment2_publisher_subscriber/build.cache-manifest.007.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment2_publisher_subscriber/build.check.000.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment2_publisher_subscriber/build.check.001.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment2_publisher_subscriber/build.check.002.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment2_publisher_subscriber/build.check.003.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment2_publisher_subscriber/build.check.004.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment2_publisher_subscriber/build.check.005.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment2_publisher_subscriber/build.check.006.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment2_publisher_subscriber/build.check.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment2_publisher_subscriber/build.install.001.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment2_publisher_subscriber/build.install.002.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment2_publisher_subscriber/build.install.003.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment2_publisher_subscriber/build.install.004.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment2_publisher_subscriber/build.install.005.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment2_publisher_subscriber/build.install.006.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment2_publisher_subscriber/build.install.007.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment2_publisher_subscriber/build.loadenv.001.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment2_publisher_subscriber/build.loadenv.002.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment2_publisher_subscriber/build.loadenv.003.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment2_publisher_subscriber/build.loadenv.004.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment2_publisher_subscriber/build.loadenv.005.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment2_publisher_subscriber/build.loadenv.006.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment2_publisher_subscriber/build.loadenv.007.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment2_publisher_subscriber/build.make.001.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment2_publisher_subscriber/build.make.002.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment2_publisher_subscriber/build.make.003.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment2_publisher_subscriber/build.make.004.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment2_publisher_subscriber/build.make.005.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment2_publisher_subscriber/build.make.006.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment2_publisher_subscriber/build.make.007.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment2_publisher_subscriber/build.mkdir.006.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment2_publisher_subscriber/build.mkdir.007.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment2_publisher_subscriber/build.mkdir.008.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment2_publisher_subscriber/build.mkdir.009.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment2_publisher_subscriber/build.mkdir.010.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment2_publisher_subscriber/build.mkdir.011.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment2_publisher_subscriber/build.mkdir.012.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment2_publisher_subscriber/build.mkdir.013.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment2_publisher_subscriber/build.mkdir.014.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment2_publisher_subscriber/build.mkdir.015.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment2_publisher_subscriber/build.symlink.001.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment2_publisher_subscriber/build.symlink.002.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment2_publisher_subscriber/build.symlink.003.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment2_publisher_subscriber/build.symlink.004.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment2_publisher_subscriber/build.symlink.005.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment2_publisher_subscriber/build.symlink.006.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment2_publisher_subscriber/build.symlink.007.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment4_camera/build.cache-manifest.001.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment4_camera/build.cache-manifest.002.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment4_camera/build.cache-manifest.003.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment4_camera/build.cache-manifest.004.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment4_camera/build.cache-manifest.005.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment4_camera/build.cache-manifest.006.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment4_camera/build.cache-manifest.007.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment4_camera/build.cache-manifest.008.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment4_camera/build.check.000.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment4_camera/build.check.001.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment4_camera/build.check.002.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment4_camera/build.check.003.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment4_camera/build.check.004.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment4_camera/build.check.005.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment4_camera/build.check.006.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment4_camera/build.check.007.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment4_camera/build.check.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment4_camera/build.install.001.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment4_camera/build.install.002.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment4_camera/build.install.003.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment4_camera/build.install.004.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment4_camera/build.install.005.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment4_camera/build.install.006.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment4_camera/build.install.007.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment4_camera/build.install.008.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment4_camera/build.loadenv.001.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment4_camera/build.loadenv.002.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment4_camera/build.loadenv.003.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment4_camera/build.loadenv.004.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment4_camera/build.loadenv.005.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment4_camera/build.loadenv.006.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment4_camera/build.loadenv.007.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment4_camera/build.loadenv.008.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment4_camera/build.make.001.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment4_camera/build.make.002.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment4_camera/build.make.003.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment4_camera/build.make.004.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment4_camera/build.make.005.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment4_camera/build.make.006.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment4_camera/build.make.007.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment4_camera/build.make.008.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment4_camera/build.mkdir.008.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment4_camera/build.mkdir.009.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment4_camera/build.mkdir.010.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment4_camera/build.mkdir.011.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment4_camera/build.mkdir.012.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment4_camera/build.mkdir.013.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment4_camera/build.mkdir.014.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment4_camera/build.mkdir.015.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment4_camera/build.mkdir.016.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment4_camera/build.mkdir.017.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment4_camera/build.symlink.001.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment4_camera/build.symlink.002.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment4_camera/build.symlink.003.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment4_camera/build.symlink.004.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment4_camera/build.symlink.005.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment4_camera/build.symlink.006.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment4_camera/build.symlink.007.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment4_camera/build.symlink.008.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment6_ransac/build.cache-manifest.001.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment6_ransac/build.cache-manifest.002.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment6_ransac/build.cache-manifest.003.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment6_ransac/build.cache-manifest.004.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment6_ransac/build.cache-manifest.005.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment6_ransac/build.cache-manifest.006.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment6_ransac/build.cache-manifest.007.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment6_ransac/build.check.000.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment6_ransac/build.check.001.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment6_ransac/build.check.002.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment6_ransac/build.check.003.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment6_ransac/build.check.004.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment6_ransac/build.check.005.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment6_ransac/build.check.006.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment6_ransac/build.check.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment6_ransac/build.install.001.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment6_ransac/build.install.002.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment6_ransac/build.install.003.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment6_ransac/build.install.004.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment6_ransac/build.install.005.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment6_ransac/build.install.006.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment6_ransac/build.install.007.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment6_ransac/build.loadenv.001.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment6_ransac/build.loadenv.002.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment6_ransac/build.loadenv.003.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment6_ransac/build.loadenv.004.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment6_ransac/build.loadenv.005.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment6_ransac/build.loadenv.006.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment6_ransac/build.loadenv.007.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment6_ransac/build.make.001.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment6_ransac/build.make.002.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment6_ransac/build.make.003.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment6_ransac/build.make.004.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment6_ransac/build.make.005.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment6_ransac/build.make.006.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment6_ransac/build.make.007.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment6_ransac/build.mkdir.006.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment6_ransac/build.mkdir.007.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment6_ransac/build.mkdir.008.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment6_ransac/build.mkdir.009.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment6_ransac/build.mkdir.010.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment6_ransac/build.mkdir.011.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment6_ransac/build.mkdir.012.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment6_ransac/build.mkdir.013.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment6_ransac/build.mkdir.014.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment6_ransac/build.mkdir.015.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment6_ransac/build.symlink.001.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment6_ransac/build.symlink.002.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment6_ransac/build.symlink.003.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment6_ransac/build.symlink.004.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment6_ransac/build.symlink.005.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment6_ransac/build.symlink.006.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment6_ransac/build.symlink.007.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment7_pid/build.cache-manifest.001.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment7_pid/build.cache-manifest.002.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment7_pid/build.cache-manifest.003.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment7_pid/build.cache-manifest.004.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment7_pid/build.cache-manifest.005.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment7_pid/build.cache-manifest.006.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment7_pid/build.check.000.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment7_pid/build.check.001.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment7_pid/build.check.002.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment7_pid/build.check.003.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment7_pid/build.check.004.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment7_pid/build.check.005.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment7_pid/build.check.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment7_pid/build.install.001.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment7_pid/build.install.002.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment7_pid/build.install.003.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment7_pid/build.install.004.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment7_pid/build.install.005.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment7_pid/build.install.006.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment7_pid/build.loadenv.001.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment7_pid/build.loadenv.002.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment7_pid/build.loadenv.003.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment7_pid/build.loadenv.004.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment7_pid/build.loadenv.005.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment7_pid/build.loadenv.006.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment7_pid/build.make.001.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment7_pid/build.make.002.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment7_pid/build.make.003.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment7_pid/build.make.004.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment7_pid/build.make.005.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment7_pid/build.make.006.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment7_pid/build.mkdir.004.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment7_pid/build.mkdir.005.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment7_pid/build.mkdir.006.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment7_pid/build.mkdir.007.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment7_pid/build.mkdir.008.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment7_pid/build.mkdir.009.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment7_pid/build.mkdir.010.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment7_pid/build.mkdir.011.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment7_pid/build.mkdir.012.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment7_pid/build.mkdir.013.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment7_pid/build.symlink.001.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment7_pid/build.symlink.002.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment7_pid/build.symlink.003.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment7_pid/build.symlink.004.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment7_pid/build.symlink.005.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment7_pid/build.symlink.006.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment8_splines/build.cache-manifest.001.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment8_splines/build.cache-manifest.002.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment8_splines/build.cache-manifest.003.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment8_splines/build.check.000.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment8_splines/build.check.001.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment8_splines/build.check.002.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment8_splines/build.check.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment8_splines/build.install.001.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment8_splines/build.install.002.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment8_splines/build.install.003.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment8_splines/build.loadenv.001.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment8_splines/build.loadenv.002.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment8_splines/build.loadenv.003.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment8_splines/build.make.001.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment8_splines/build.make.002.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment8_splines/build.make.003.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment8_splines/build.mkdir.002.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment8_splines/build.mkdir.003.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment8_splines/build.mkdir.004.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment8_splines/build.mkdir.005.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment8_splines/build.mkdir.006.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment8_splines/build.mkdir.007.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment8_splines/build.symlink.001.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment8_splines/build.symlink.002.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment8_splines/build.symlink.003.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment9_navigation/build.cache-manifest.001.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment9_navigation/build.cache-manifest.002.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment9_navigation/build.check.000.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment9_navigation/build.check.001.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment9_navigation/build.check.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment9_navigation/build.install.001.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment9_navigation/build.install.002.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment9_navigation/build.loadenv.001.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment9_navigation/build.loadenv.002.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment9_navigation/build.make.001.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment9_navigation/build.make.002.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment9_navigation/build.mkdir.002.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment9_navigation/build.mkdir.003.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment9_navigation/build.mkdir.004.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment9_navigation/build.mkdir.005.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment9_navigation/build.symlink.001.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/assignment9_navigation/build.symlink.002.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/cv_bridge/build.cache-manifest.001.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/cv_bridge/build.cache-manifest.002.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/cv_bridge/build.cache-manifest.003.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/cv_bridge/build.cache-manifest.004.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/cv_bridge/build.cache-manifest.005.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/cv_bridge/build.cache-manifest.006.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/cv_bridge/build.cache-manifest.007.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/cv_bridge/build.check.000.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/cv_bridge/build.check.001.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/cv_bridge/build.check.002.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/cv_bridge/build.check.003.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/cv_bridge/build.check.004.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/cv_bridge/build.check.005.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/cv_bridge/build.check.006.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/cv_bridge/build.check.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/cv_bridge/build.install.001.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/cv_bridge/build.install.002.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/cv_bridge/build.install.003.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/cv_bridge/build.install.004.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/cv_bridge/build.install.005.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/cv_bridge/build.install.006.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/cv_bridge/build.install.007.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/cv_bridge/build.loadenv.001.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/cv_bridge/build.loadenv.002.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/cv_bridge/build.loadenv.003.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/cv_bridge/build.loadenv.004.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/cv_bridge/build.loadenv.005.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/cv_bridge/build.loadenv.006.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/cv_bridge/build.loadenv.007.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/cv_bridge/build.make.001.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/cv_bridge/build.make.002.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/cv_bridge/build.make.003.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/cv_bridge/build.make.004.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/cv_bridge/build.make.005.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/cv_bridge/build.make.006.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/cv_bridge/build.make.007.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/cv_bridge/build.mkdir.006.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/cv_bridge/build.mkdir.007.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/cv_bridge/build.mkdir.008.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/cv_bridge/build.mkdir.009.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/cv_bridge/build.mkdir.010.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/cv_bridge/build.mkdir.011.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/cv_bridge/build.mkdir.012.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/cv_bridge/build.mkdir.013.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/cv_bridge/build.mkdir.014.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/cv_bridge/build.mkdir.015.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/cv_bridge/build.symlink.001.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/cv_bridge/build.symlink.002.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/cv_bridge/build.symlink.003.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/cv_bridge/build.symlink.004.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/cv_bridge/build.symlink.005.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/cv_bridge/build.symlink.006.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/cv_bridge/build.symlink.007.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/image_geometry/build.cache-manifest.001.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/image_geometry/build.cache-manifest.002.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/image_geometry/build.cache-manifest.003.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/image_geometry/build.cache-manifest.004.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/image_geometry/build.cache-manifest.005.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/image_geometry/build.cache-manifest.006.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/image_geometry/build.cache-manifest.007.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/image_geometry/build.check.000.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/image_geometry/build.check.001.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/image_geometry/build.check.002.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/image_geometry/build.check.003.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/image_geometry/build.check.004.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/image_geometry/build.check.005.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/image_geometry/build.check.006.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/image_geometry/build.check.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/image_geometry/build.install.001.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/image_geometry/build.install.002.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/image_geometry/build.install.003.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/image_geometry/build.install.004.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/image_geometry/build.install.005.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/image_geometry/build.install.006.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/image_geometry/build.install.007.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/image_geometry/build.loadenv.001.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/image_geometry/build.loadenv.002.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/image_geometry/build.loadenv.003.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/image_geometry/build.loadenv.004.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/image_geometry/build.loadenv.005.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/image_geometry/build.loadenv.006.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/image_geometry/build.loadenv.007.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/image_geometry/build.make.001.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/image_geometry/build.make.002.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/image_geometry/build.make.003.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/image_geometry/build.make.004.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/image_geometry/build.make.005.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/image_geometry/build.make.006.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/image_geometry/build.make.007.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/image_geometry/build.mkdir.006.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/image_geometry/build.mkdir.007.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/image_geometry/build.mkdir.008.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/image_geometry/build.mkdir.009.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/image_geometry/build.mkdir.010.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/image_geometry/build.mkdir.011.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/image_geometry/build.mkdir.012.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/image_geometry/build.mkdir.013.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/image_geometry/build.mkdir.014.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/image_geometry/build.mkdir.015.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/image_geometry/build.symlink.001.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/image_geometry/build.symlink.002.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/image_geometry/build.symlink.003.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/image_geometry/build.symlink.004.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/image_geometry/build.symlink.005.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/image_geometry/build.symlink.006.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/image_geometry/build.symlink.007.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/opencv_tests/build.cache-manifest.001.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/opencv_tests/build.cache-manifest.002.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/opencv_tests/build.cache-manifest.003.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/opencv_tests/build.cache-manifest.004.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/opencv_tests/build.cache-manifest.005.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/opencv_tests/build.cache-manifest.006.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/opencv_tests/build.cache-manifest.007.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/opencv_tests/build.check.000.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/opencv_tests/build.check.001.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/opencv_tests/build.check.002.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/opencv_tests/build.check.003.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/opencv_tests/build.check.004.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/opencv_tests/build.check.005.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/opencv_tests/build.check.006.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/opencv_tests/build.check.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/opencv_tests/build.install.001.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/opencv_tests/build.install.002.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/opencv_tests/build.install.003.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/opencv_tests/build.install.004.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/opencv_tests/build.install.005.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/opencv_tests/build.install.006.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/opencv_tests/build.install.007.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/opencv_tests/build.loadenv.001.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/opencv_tests/build.loadenv.002.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/opencv_tests/build.loadenv.003.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/opencv_tests/build.loadenv.004.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/opencv_tests/build.loadenv.005.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/opencv_tests/build.loadenv.006.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/opencv_tests/build.loadenv.007.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/opencv_tests/build.make.001.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/opencv_tests/build.make.002.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/opencv_tests/build.make.003.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/opencv_tests/build.make.004.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/opencv_tests/build.make.005.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/opencv_tests/build.make.006.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/opencv_tests/build.make.007.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/opencv_tests/build.mkdir.006.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/opencv_tests/build.mkdir.007.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/opencv_tests/build.mkdir.008.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/opencv_tests/build.mkdir.009.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/opencv_tests/build.mkdir.010.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/opencv_tests/build.mkdir.011.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/opencv_tests/build.mkdir.012.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/opencv_tests/build.mkdir.013.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/opencv_tests/build.mkdir.014.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/opencv_tests/build.mkdir.015.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/opencv_tests/build.symlink.001.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/opencv_tests/build.symlink.002.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/opencv_tests/build.symlink.003.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/opencv_tests/build.symlink.004.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/opencv_tests/build.symlink.005.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/opencv_tests/build.symlink.006.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/opencv_tests/build.symlink.007.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_drive_control/build.cache-manifest.001.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_drive_control/build.cache-manifest.002.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_drive_control/build.cache-manifest.003.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_drive_control/build.cache-manifest.004.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_drive_control/build.cache-manifest.005.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_drive_control/build.cache-manifest.006.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_drive_control/build.cache-manifest.007.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_drive_control/build.check.000.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_drive_control/build.check.001.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_drive_control/build.check.002.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_drive_control/build.check.003.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_drive_control/build.check.004.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_drive_control/build.check.005.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_drive_control/build.check.006.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_drive_control/build.check.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_drive_control/build.install.001.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_drive_control/build.install.002.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_drive_control/build.install.003.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_drive_control/build.install.004.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_drive_control/build.install.005.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_drive_control/build.install.006.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_drive_control/build.install.007.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_drive_control/build.loadenv.001.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_drive_control/build.loadenv.002.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_drive_control/build.loadenv.003.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_drive_control/build.loadenv.004.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_drive_control/build.loadenv.005.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_drive_control/build.loadenv.006.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_drive_control/build.loadenv.007.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_drive_control/build.make.001.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_drive_control/build.make.002.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_drive_control/build.make.003.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_drive_control/build.make.004.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_drive_control/build.make.005.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_drive_control/build.make.006.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_drive_control/build.make.007.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_drive_control/build.mkdir.006.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_drive_control/build.mkdir.007.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_drive_control/build.mkdir.008.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_drive_control/build.mkdir.009.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_drive_control/build.mkdir.010.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_drive_control/build.mkdir.011.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_drive_control/build.mkdir.012.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_drive_control/build.mkdir.013.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_drive_control/build.mkdir.014.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_drive_control/build.mkdir.015.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_drive_control/build.symlink.001.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_drive_control/build.symlink.002.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_drive_control/build.symlink.003.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_drive_control/build.symlink.004.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_drive_control/build.symlink.005.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_drive_control/build.symlink.006.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_drive_control/build.symlink.007.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_parking_maneuver/build.cache-manifest.001.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_parking_maneuver/build.cache-manifest.002.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_parking_maneuver/build.cache-manifest.003.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_parking_maneuver/build.cache-manifest.004.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_parking_maneuver/build.cache-manifest.005.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_parking_maneuver/build.cache-manifest.006.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_parking_maneuver/build.cache-manifest.007.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_parking_maneuver/build.check.000.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_parking_maneuver/build.check.001.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_parking_maneuver/build.check.002.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_parking_maneuver/build.check.003.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_parking_maneuver/build.check.004.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_parking_maneuver/build.check.005.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_parking_maneuver/build.check.006.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_parking_maneuver/build.check.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_parking_maneuver/build.install.001.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_parking_maneuver/build.install.002.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_parking_maneuver/build.install.003.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_parking_maneuver/build.install.004.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_parking_maneuver/build.install.005.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_parking_maneuver/build.install.006.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_parking_maneuver/build.install.007.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_parking_maneuver/build.loadenv.001.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_parking_maneuver/build.loadenv.002.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_parking_maneuver/build.loadenv.003.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_parking_maneuver/build.loadenv.004.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_parking_maneuver/build.loadenv.005.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_parking_maneuver/build.loadenv.006.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_parking_maneuver/build.loadenv.007.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_parking_maneuver/build.make.001.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_parking_maneuver/build.make.002.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_parking_maneuver/build.make.003.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_parking_maneuver/build.make.004.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_parking_maneuver/build.make.005.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_parking_maneuver/build.make.006.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_parking_maneuver/build.make.007.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_parking_maneuver/build.mkdir.006.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_parking_maneuver/build.mkdir.007.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_parking_maneuver/build.mkdir.008.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_parking_maneuver/build.mkdir.009.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_parking_maneuver/build.mkdir.010.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_parking_maneuver/build.mkdir.011.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_parking_maneuver/build.mkdir.012.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_parking_maneuver/build.mkdir.013.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_parking_maneuver/build.mkdir.014.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_parking_maneuver/build.mkdir.015.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_parking_maneuver/build.symlink.001.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_parking_maneuver/build.symlink.002.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_parking_maneuver/build.symlink.003.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_parking_maneuver/build.symlink.004.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_parking_maneuver/build.symlink.005.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_parking_maneuver/build.symlink.006.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/simple_parking_maneuver/build.symlink.007.log" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/vision_opencv" afterPath="$PROJECT_DIR$/src/vision_opencv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.catkin_tools/profiles/default/devel_collisions.txt" afterPath="$PROJECT_DIR$/.catkin_tools/profiles/default/devel_collisions.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.catkin_tools/profiles/default/packages/simple_parking_maneuver/devel_manifest.txt" afterPath="$PROJECT_DIR$/.catkin_tools/profiles/default/packages/simple_parking_maneuver/devel_manifest.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/assignment2_publisher_subscriber/build.install.000.log" afterPath="$PROJECT_DIR$/logs/assignment2_publisher_subscriber/build.install.000.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/assignment2_publisher_subscriber/build.install.log" afterPath="$PROJECT_DIR$/logs/assignment2_publisher_subscriber/build.install.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/assignment2_publisher_subscriber/build.symlink.log" afterPath="$PROJECT_DIR$/logs/assignment2_publisher_subscriber/build.symlink.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/assignment4_camera/build.install.000.log" afterPath="$PROJECT_DIR$/logs/assignment4_camera/build.install.000.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/assignment4_camera/build.install.log" afterPath="$PROJECT_DIR$/logs/assignment4_camera/build.install.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/assignment4_camera/build.symlink.log" afterPath="$PROJECT_DIR$/logs/assignment4_camera/build.symlink.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/assignment6_ransac/build.install.000.log" afterPath="$PROJECT_DIR$/logs/assignment6_ransac/build.install.000.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/assignment6_ransac/build.install.log" afterPath="$PROJECT_DIR$/logs/assignment6_ransac/build.install.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/assignment6_ransac/build.symlink.log" afterPath="$PROJECT_DIR$/logs/assignment6_ransac/build.symlink.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/assignment7_pid/build.install.log" afterPath="$PROJECT_DIR$/logs/assignment7_pid/build.install.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/assignment7_pid/build.symlink.log" afterPath="$PROJECT_DIR$/logs/assignment7_pid/build.symlink.log" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/assignment8_splines/build.install.log" afterPath="$PROJECT_DIR$/logs/assignment8_splines/build.install.log" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/assignment8_splines/build.symlink.log" afterPath="$PROJECT_DIR$/logs/assignment8_splines/build.symlink.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/assignment9_navigation/build.install.log" afterPath="$PROJECT_DIR$/logs/assignment9_navigation/build.install.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/assignment9_navigation/build.symlink.log" afterPath="$PROJECT_DIR$/logs/assignment9_navigation/build.symlink.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/cv_bridge/build.cmake.000.log" afterPath="$PROJECT_DIR$/logs/cv_bridge/build.cmake.000.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/cv_bridge/build.cmake.log" afterPath="$PROJECT_DIR$/logs/cv_bridge/build.cmake.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/cv_bridge/build.install.log" afterPath="$PROJECT_DIR$/logs/cv_bridge/build.install.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/cv_bridge/build.make.000.log" afterPath="$PROJECT_DIR$/logs/cv_bridge/build.make.000.log" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/cv_bridge/build.make.log" afterPath="$PROJECT_DIR$/logs/cv_bridge/build.make.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/cv_bridge/build.symlink.log" afterPath="$PROJECT_DIR$/logs/cv_bridge/build.symlink.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/image_geometry/build.install.log" afterPath="$PROJECT_DIR$/logs/image_geometry/build.install.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/image_geometry/build.make.000.log" afterPath="$PROJECT_DIR$/logs/image_geometry/build.make.000.log" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/image_geometry/build.make.log" afterPath="$PROJECT_DIR$/logs/image_geometry/build.make.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/image_geometry/build.symlink.log" afterPath="$PROJECT_DIR$/logs/image_geometry/build.symlink.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/opencv_tests/build.install.log" afterPath="$PROJECT_DIR$/logs/opencv_tests/build.install.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/opencv_tests/build.symlink.log" afterPath="$PROJECT_DIR$/logs/opencv_tests/build.symlink.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/simple_drive_control/build.install.log" afterPath="$PROJECT_DIR$/logs/simple_drive_control/build.install.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/simple_drive_control/build.symlink.log" afterPath="$PROJECT_DIR$/logs/simple_drive_control/build.symlink.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/simple_parking_maneuver/build.install.log" afterPath="$PROJECT_DIR$/logs/simple_parking_maneuver/build.install.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/simple_parking_maneuver/build.make.000.log" afterPath="$PROJECT_DIR$/logs/simple_parking_maneuver/build.make.000.log" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/simple_parking_maneuver/build.make.log" afterPath="$PROJECT_DIR$/logs/simple_parking_maneuver/build.make.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/simple_parking_maneuver/build.symlink.log" afterPath="$PROJECT_DIR$/logs/simple_parking_maneuver/build.symlink.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assignment9_navigation/navigation.py" afterPath="$PROJECT_DIR$/src/assignment9_navigation/navigation.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assignment9_navigation/pid.py" afterPath="$PROJECT_DIR$/src/assignment9_navigation/pid.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -78,11 +570,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pid.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pid.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/assignment9_navigation/pid.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="70" column="61" lean-forward="false" selection-start-line="70" selection-start-column="61" selection-end-line="70" selection-end-column="61" />
+            <state relative-caret-position="-882">
+              <caret line="8" column="19" lean-forward="false" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
               <folding>
                 <element signature="e#0#12#0" expanded="true" />
               </folding>
@@ -93,8 +585,8 @@
       <file leaf-file-name="navigation.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/assignment9_navigation/navigation.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="630">
-              <caret line="71" column="25" lean-forward="false" selection-start-line="71" selection-start-column="25" selection-end-line="71" selection-end-column="25" />
+            <state relative-caret-position="1584">
+              <caret line="103" column="24" lean-forward="false" selection-start-line="103" selection-start-column="24" selection-end-line="103" selection-end-column="24" />
               <folding>
                 <element signature="e#0#24#0" expanded="true" />
               </folding>
@@ -102,11 +594,21 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="PID_Controller.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/assignment7_pid/PID_Controller.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-174">
+              <caret line="19" column="23" lean-forward="false" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="map.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/assignment9_navigation/map.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="69" column="52" lean-forward="true" selection-start-line="69" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
+            <state relative-caret-position="-606">
+              <caret line="69" column="52" lean-forward="false" selection-start-line="69" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
               <folding>
                 <element signature="e#0#12#0" expanded="true" />
               </folding>
@@ -127,6 +629,7 @@
     <findStrings>
       <find>angle</find>
       <find>on_steering</find>
+      <find>yaw</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -176,8 +679,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -230,6 +731,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -277,15 +780,16 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1920" height="1055" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21664888" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21878335" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3008658" sideWeight="0.51280683" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29112554" sideWeight="0.48719317" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29112554" sideWeight="0.48719317" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -611,13 +1115,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/assignment7_pid/PID_Controller.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="22" lean-forward="false" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/AutoMiny-exercises_real/simple_drive_control/src/drive_control.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -648,8 +1145,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/assignment9_navigation/map.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="69" column="52" lean-forward="true" selection-start-line="69" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
+        <state relative-caret-position="-606">
+          <caret line="69" column="52" lean-forward="false" selection-start-line="69" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
           <folding>
             <element signature="e#0#12#0" expanded="true" />
           </folding>
@@ -658,8 +1155,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/assignment9_navigation/navigation.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="71" column="25" lean-forward="false" selection-start-line="71" selection-start-column="25" selection-end-line="71" selection-end-column="25" />
+        <state relative-caret-position="1584">
+          <caret line="103" column="24" lean-forward="false" selection-start-line="103" selection-start-column="24" selection-end-line="103" selection-end-column="24" />
           <folding>
             <element signature="e#0#24#0" expanded="true" />
           </folding>
@@ -668,11 +1165,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/assignment9_navigation/pid.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="70" column="61" lean-forward="false" selection-start-line="70" selection-start-column="61" selection-end-line="70" selection-end-column="61" />
+        <state relative-caret-position="-882">
+          <caret line="8" column="19" lean-forward="false" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
           <folding>
             <element signature="e#0#12#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assignment7_pid/PID_Controller.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-174">
+          <caret line="19" column="23" lean-forward="false" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+          <folding />
         </state>
       </provider>
     </entry>

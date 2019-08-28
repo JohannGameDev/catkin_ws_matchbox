@@ -9,7 +9,7 @@
 -- Installing: /home/johann/catkin_ws_matchbox/install/setup.zsh
 -- Installing: /home/johann/catkin_ws_matchbox/install/local_setup.zsh
 -- Installing: /home/johann/catkin_ws_matchbox/install/.rosinstall
--- Up-to-date: /home/johann/catkin_ws_matchbox/install/lib/pkgconfig/assignment8_splines.pc
--- Up-to-date: /home/johann/catkin_ws_matchbox/install/share/assignment8_splines/cmake/assignment8_splinesConfig.cmake
--- Up-to-date: /home/johann/catkin_ws_matchbox/install/share/assignment8_splines/cmake/assignment8_splinesConfig-version.cmake
--- Up-to-date: /home/johann/catkin_ws_matchbox/install/share/assignment8_splines/package.xml
+-- Installing: /home/johann/catkin_ws_matchbox/install/lib/pkgconfig/assignment8_splines.pc
+-- Installing: /home/johann/catkin_ws_matchbox/install/share/assignment8_splines/cmake/assignment8_splinesConfig.cmake
+-- Installing: /home/johann/catkin_ws_matchbox/install/share/assignment8_splines/cmake/assignment8_splinesConfig-version.cmake
+-- Installing: /home/johann/catkin_ws_matchbox/install/share/assignment8_splines/package.xml

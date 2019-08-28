@@ -9,7 +9,7 @@
 -- Installing: /home/johann/catkin_ws_matchbox/install/setup.zsh
 -- Installing: /home/johann/catkin_ws_matchbox/install/local_setup.zsh
 -- Installing: /home/johann/catkin_ws_matchbox/install/.rosinstall
--- Up-to-date: /home/johann/catkin_ws_matchbox/install/lib/pkgconfig/assignment9_navigation.pc
--- Up-to-date: /home/johann/catkin_ws_matchbox/install/share/assignment9_navigation/cmake/assignment9_navigationConfig.cmake
--- Up-to-date: /home/johann/catkin_ws_matchbox/install/share/assignment9_navigation/cmake/assignment9_navigationConfig-version.cmake
--- Up-to-date: /home/johann/catkin_ws_matchbox/install/share/assignment9_navigation/package.xml
+-- Installing: /home/johann/catkin_ws_matchbox/install/lib/pkgconfig/assignment9_navigation.pc
+-- Installing: /home/johann/catkin_ws_matchbox/install/share/assignment9_navigation/cmake/assignment9_navigationConfig.cmake
+-- Installing: /home/johann/catkin_ws_matchbox/install/share/assignment9_navigation/cmake/assignment9_navigationConfig-version.cmake
+-- Installing: /home/johann/catkin_ws_matchbox/install/share/assignment9_navigation/package.xml

@@ -71,7 +71,10 @@ class PID:
         clamp_pid_out_put = min(self.max_i, clamp_pid_out_put)
 
         speed_msg = SpeedCommand()
-        speed_msg.value = 0.1
+        if self.desired_angle > 0.1:
+            speed_msg.value = 0.6
+        else:
+            speed_msg.value = 1.0
         self.speed_pub.publish(speed_msg)
 
         steering_msg = NormalizedSteeringCommand()

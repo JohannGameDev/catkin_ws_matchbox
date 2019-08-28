@@ -38,12 +38,12 @@ Not searching for unused variables given on the command line.
 [36m--[0m Using Python nosetests: /usr/bin/nosetests-2.7
 [36m--[0m catkin 0.7.17
 [36m--[0m BUILD_SHARED_LIBS is on
-[36m--[0m Found PythonLibs: /usr/lib/x86_64-linux-gnu/libpython2.7.so (found version "2.7.15rc1")
+[36m--[0m Found PythonLibs: /usr/lib/x86_64-linux-gnu/libpython2.7.so (found version "2.7.15+")
 [36m--[0m Boost version: 1.65.1
 [36m--[0m Found the following Boost libraries:
 [36m--[0m   python
 [36m--[0m Found OpenCV: /usr (found suitable version "3.2.0", minimum required is "3") found components:  opencv_core opencv_imgproc opencv_imgcodecs
-[36m--[0m Found PythonLibs: /usr/lib/x86_64-linux-gnu/libpython2.7.so (found suitable version "2.7.15rc1", minimum required is "2.7")
+[36m--[0m Found PythonLibs: /usr/lib/x86_64-linux-gnu/libpython2.7.so (found suitable version "2.7.15+", minimum required is "2.7")
 [36m--[0m Configuring done
 [36m--[0m Generating done
 [36m--[0m Build files have been written to: /home/johann/catkin_ws_matchbox/build/cv_bridge

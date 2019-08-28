@@ -1,11 +1,8 @@
 AutoMiny-exercises_real/simple_parking_maneuver
 /home/johann/catkin_ws_matchbox/devel/.private/simple_parking_maneuver/cmake.lock /home/johann/catkin_ws_matchbox/devel/./cmake.lock
 /home/johann/catkin_ws_matchbox/devel/.private/simple_parking_maneuver/lib/python2.7/dist-packages/simple_parking_maneuver/__init__.py /home/johann/catkin_ws_matchbox/devel/lib/python2.7/dist-packages/simple_parking_maneuver/__init__.py
-/home/johann/catkin_ws_matchbox/devel/.private/simple_parking_maneuver/lib/python2.7/dist-packages/simple_parking_maneuver/__init__.pyc /home/johann/catkin_ws_matchbox/devel/lib/python2.7/dist-packages/simple_parking_maneuver/__init__.pyc
 /home/johann/catkin_ws_matchbox/devel/.private/simple_parking_maneuver/lib/python2.7/dist-packages/simple_parking_maneuver/srv/_ParkingManeuver.py /home/johann/catkin_ws_matchbox/devel/lib/python2.7/dist-packages/simple_parking_maneuver/srv/_ParkingManeuver.py
 /home/johann/catkin_ws_matchbox/devel/.private/simple_parking_maneuver/lib/python2.7/dist-packages/simple_parking_maneuver/srv/__init__.py /home/johann/catkin_ws_matchbox/devel/lib/python2.7/dist-packages/simple_parking_maneuver/srv/__init__.py
-/home/johann/catkin_ws_matchbox/devel/.private/simple_parking_maneuver/lib/python2.7/dist-packages/simple_parking_maneuver/srv/_ParkingManeuver.pyc /home/johann/catkin_ws_matchbox/devel/lib/python2.7/dist-packages/simple_parking_maneuver/srv/_ParkingManeuver.pyc
-/home/johann/catkin_ws_matchbox/devel/.private/simple_parking_maneuver/lib/python2.7/dist-packages/simple_parking_maneuver/srv/__init__.pyc /home/johann/catkin_ws_matchbox/devel/lib/python2.7/dist-packages/simple_parking_maneuver/srv/__init__.pyc
 /home/johann/catkin_ws_matchbox/devel/.private/simple_parking_maneuver/lib/pkgconfig/simple_parking_maneuver.pc /home/johann/catkin_ws_matchbox/devel/lib/pkgconfig/simple_parking_maneuver.pc
 /home/johann/catkin_ws_matchbox/devel/.private/simple_parking_maneuver/include/simple_parking_maneuver/ParkingManeuverRequest.h /home/johann/catkin_ws_matchbox/devel/include/simple_parking_maneuver/ParkingManeuverRequest.h
 /home/johann/catkin_ws_matchbox/devel/.private/simple_parking_maneuver/include/simple_parking_maneuver/ParkingManeuver.h /home/johann/catkin_ws_matchbox/devel/include/simple_parking_maneuver/ParkingManeuver.h

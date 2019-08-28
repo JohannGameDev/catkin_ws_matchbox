@@ -1,3 +1,3 @@
-Linked: (/home/johann/catkin_ws_matchbox/devel/.private/opencv_tests/lib/pkgconfig/opencv_tests.pc, /home/johann/catkin_ws_matchbox/devel/lib/pkgconfig/opencv_tests.pc)
-Linked: (/home/johann/catkin_ws_matchbox/devel/.private/opencv_tests/share/opencv_tests/cmake/opencv_testsConfig-version.cmake, /home/johann/catkin_ws_matchbox/devel/share/opencv_tests/cmake/opencv_testsConfig-version.cmake)
-Linked: (/home/johann/catkin_ws_matchbox/devel/.private/opencv_tests/share/opencv_tests/cmake/opencv_testsConfig.cmake, /home/johann/catkin_ws_matchbox/devel/share/opencv_tests/cmake/opencv_testsConfig.cmake)
+Symlinking /home/johann/catkin_ws_matchbox/devel/lib/pkgconfig/opencv_tests.pc
+Symlinking /home/johann/catkin_ws_matchbox/devel/share/opencv_tests/cmake/opencv_testsConfig-version.cmake
+Symlinking /home/johann/catkin_ws_matchbox/devel/share/opencv_tests/cmake/opencv_testsConfig.cmake

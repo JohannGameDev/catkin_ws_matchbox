@@ -9,7 +9,7 @@
 -- Installing: /home/johann/catkin_ws_matchbox/install/setup.zsh
 -- Installing: /home/johann/catkin_ws_matchbox/install/local_setup.zsh
 -- Installing: /home/johann/catkin_ws_matchbox/install/.rosinstall
--- Up-to-date: /home/johann/catkin_ws_matchbox/install/lib/pkgconfig/opencv_tests.pc
--- Up-to-date: /home/johann/catkin_ws_matchbox/install/share/opencv_tests/cmake/opencv_testsConfig.cmake
--- Up-to-date: /home/johann/catkin_ws_matchbox/install/share/opencv_tests/cmake/opencv_testsConfig-version.cmake
--- Up-to-date: /home/johann/catkin_ws_matchbox/install/share/opencv_tests/package.xml
+-- Installing: /home/johann/catkin_ws_matchbox/install/lib/pkgconfig/opencv_tests.pc
+-- Installing: /home/johann/catkin_ws_matchbox/install/share/opencv_tests/cmake/opencv_testsConfig.cmake
+-- Installing: /home/johann/catkin_ws_matchbox/install/share/opencv_tests/cmake/opencv_testsConfig-version.cmake
+-- Installing: /home/johann/catkin_ws_matchbox/install/share/opencv_tests/package.xml

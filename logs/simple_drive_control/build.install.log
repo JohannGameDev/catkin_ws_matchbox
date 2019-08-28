@@ -9,7 +9,7 @@
 -- Installing: /home/johann/catkin_ws_matchbox/install/setup.zsh
 -- Installing: /home/johann/catkin_ws_matchbox/install/local_setup.zsh
 -- Installing: /home/johann/catkin_ws_matchbox/install/.rosinstall
--- Up-to-date: /home/johann/catkin_ws_matchbox/install/lib/pkgconfig/simple_drive_control.pc
--- Up-to-date: /home/johann/catkin_ws_matchbox/install/share/simple_drive_control/cmake/simple_drive_controlConfig.cmake
--- Up-to-date: /home/johann/catkin_ws_matchbox/install/share/simple_drive_control/cmake/simple_drive_controlConfig-version.cmake
--- Up-to-date: /home/johann/catkin_ws_matchbox/install/share/simple_drive_control/package.xml
+-- Installing: /home/johann/catkin_ws_matchbox/install/lib/pkgconfig/simple_drive_control.pc
+-- Installing: /home/johann/catkin_ws_matchbox/install/share/simple_drive_control/cmake/simple_drive_controlConfig.cmake
+-- Installing: /home/johann/catkin_ws_matchbox/install/share/simple_drive_control/cmake/simple_drive_controlConfig-version.cmake
+-- Installing: /home/johann/catkin_ws_matchbox/install/share/simple_drive_control/package.xml
